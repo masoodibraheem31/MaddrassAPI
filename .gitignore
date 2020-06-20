@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MaddrassAPI
+/ApplicationLogic/obj
+/ApplicationLogic/bin
+/BusinessLogic/bin
+/BusinessLogic/obj
+/Entities/bin
+/Entities/obj
+/MaddrassAPI/bin
+/MaddrassAPI/obj
+/MaddrassAPI/Properties/PublishProfiles
